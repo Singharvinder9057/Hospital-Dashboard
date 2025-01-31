@@ -1,4 +1,4 @@
-🏥 **Hospital Power BI Dashboard** <br> <br>
+## **Hospital Power BI Dashboard** <br> <br>
 📌 #**Overview** <br>
 The Hospital Power BI Dashboard is a data-driven analytics solution designed to enhance hospital management and improve decision-making. It provides real-time insights into key hospital metrics, including patient admissions, bed occupancy, staff performance, and financial statistics. <br>
 
