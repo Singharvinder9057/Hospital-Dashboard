@@ -8,13 +8,13 @@ The Hospital Power BI Dashboard is a data-driven analytics solution designed to 
 ✅ Resource Management – Track bed occupancy, staff workload, and medical supplies. <br>
 ✅ Financial Insights – Analyze revenue, expenses, and billing trends. <br>
 ✅ Custom Reports & Filters – Drill down into specific departments, doctors, or time periods. <br>
-✅ Export & Sharing – Easily export reports for stakeholders. <br>
+✅ Export & Sharing – Easily export reports for stakeholders. <br> <br>
 
 🛠️ **Tech Stack** <br>
 Visualization: Microsoft Power BI <br>
 Data Source: SQL Server / Excel / Google Sheets / API Integration <br>
 Data Processing: Power Query / DAX (Data Analysis Expressions) <br>
-Deployment: Power BI Service / Power BI Embedded <br>
+Deployment: Power BI Service / Power BI Embedded <br> <br>
 
 📊 **Usage** <br>
 Open the Power BI Dashboard to view real-time hospital statistics. <br>
